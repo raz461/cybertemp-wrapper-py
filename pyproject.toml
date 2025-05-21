@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cybertemp-wrapper-py"
+version = "1.0.0"
+description = "A Python wrapper for the CyberTemp email API."
+authors = [
+    { name = "Never" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests"
+]
+license = { text = "MIT" }
+
+[project.urls]
+Homepage = "https://github.com/raz461/cybertemp-wrapper-py"
+BugTracker = "https://github.com/raz461/cybertemp-wrapper-py/issues"
