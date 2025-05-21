@@ -9,3 +9,8 @@ venv/
 # VS Code / PyCharm / JetBrains
 .vscode/
 .idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
