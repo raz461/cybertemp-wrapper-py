@@ -16,7 +16,7 @@ A lightweight Python wrapper for the [cybertemp.xyz](https://cybertemp.xyz) API.
 - Python 3.10 or higher
 
 ```bash
-pip install -r requirements.txt
+pip install cybertemp-wrapper-py
 ```
 
 ## Usage
