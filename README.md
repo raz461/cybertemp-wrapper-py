@@ -52,3 +52,5 @@ client.delete_inbox("example@domain.com")
 
 - Some endpoints require an API key.
 - Auth headers are handled automatically depending on the endpoint.
+
+[Discord](https://discord.gg/undesync)
