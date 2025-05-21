@@ -1,4 +1,4 @@
-from http_client import HTTPClient
+from .http_client import HTTPClient
 
 class CyberTemp:
     def __init__(self, base_url: str = "https://cybertemp.xyz/api", api_key: str | None = None):
